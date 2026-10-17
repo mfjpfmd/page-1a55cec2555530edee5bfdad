@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-76374c611b.iashu.cn/sitemap.xml
